@@ -4,6 +4,6 @@ resource "azurerm_resource_group" "example" {
 }
 
 resource "azurerm_resource_group" "example2" {
-      name = "deep-new2"
+      name = "deep-new3"
       location = "eastus"
 }
